@@ -1,0 +1,26 @@
+{
+  "shape": "sp",
+  "source_url": "https://royalweedmi.com/",
+  "domain": "royalweedmi.com",
+  "bundle_root": "C:\\Users\\USER\\clone-site-output\\royalweedmi.com.v7",
+  "chrome_css_chars": 2426813,
+  "css_sources_consolidated": 59,
+  "images_in_pages": 57,
+  "images_full_library": 58,
+  "non_image_assets": 198,
+  "transformations": {
+    "links_removed": 8,
+    "styles_removed": 35,
+    "tracking_scripts_stripped": 0,
+    "base_stripped": 0,
+    "data_screen_label_stripped": 0,
+    "url_attrs_rewritten": 46,
+    "internal_hrefs_rewritten": 0,
+    "templates_injected": [
+      "nav-mobile",
+      "form-submit"
+    ]
+  },
+  "clone_stage": 3,
+  "emitted_at": "2026-09-04T07:24:20.327Z"
+}
